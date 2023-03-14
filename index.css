@@ -1,0 +1,32 @@
+body{
+}
+th{
+    border: 1px black solid;
+    background-color: grey;
+}
+td{
+    border: 1px black solid;
+}
+
+.one{
+    width: 500px;
+    height: 300px;
+    background-color: silver;
+    margin: 0  auto;
+}
+.two{
+    width: 500px;
+    height: 300px;
+    background-color: #d3b2b2;
+    margin: 0  auto;
+}
+.three{
+    width: 500px;
+    height: 300px;
+    background-color: #5b4848;
+    margin: 0  auto;
+}
+#block{
+    background: #a9a9c2;
+    border: 1px black solid;
+}
